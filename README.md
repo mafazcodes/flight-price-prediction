@@ -20,7 +20,5 @@
 ### 📂 Project Files
 - notebook.ipynb → main training notebook
 - Data/ → dataset 
-- leaderboard screenshot
-
 
 
