@@ -20,7 +20,7 @@
 ### 📂 Project Files
 - notebook.ipynb → main training notebook
 - Data/ → dataset 
-- results/ → leaderboard screenshot & plots
+- leaderboard screenshot
 
 
 
